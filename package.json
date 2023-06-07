@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test the discription",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/vaishusonvane/test-publish.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishusonvane/test-publish.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "vishali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishusonvane/test-publish/issues"
+  },
+  "homepage": "https://github.com/vaishusonvane/test-publish#readme"
+}
